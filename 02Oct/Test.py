@@ -7,9 +7,7 @@ print("Next print statement not started on new line because of escape sequence")
 print(23 + 45)
 print(23 * 45)
 <<<<<<< HEAD
-print ("Not loaded in git yet")
-=======
-
+ 
 >>>>>>> 102ea663d4160773d58c9037cfba603aa16f5b5b
 print ("GIT")
 # cntrl+/  --> For Comment
