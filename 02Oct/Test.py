@@ -6,9 +6,9 @@ print("Hello", "Kranti", end='\t') #\t is a escape sequence which ends line with
 print("Next print statement not started on new line because of escape sequence")
 print(23 + 45)
 print(23 * 45)
-<<<<<<< HEAD
- 
->>>>>>> 102ea663d4160773d58c9037cfba603aa16f5b5b
+#<<<<<<< HEAD
+
+#>>>>>>> 102ea663d4160773d58c9037cfba603aa16f5b5b
 print ("GIT")
 # cntrl+/  --> For Comment
 # cntrl+/  --> For Comment
