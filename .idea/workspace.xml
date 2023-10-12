@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25e25318-9d0b-4cb6-a308-42b86f81055f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/List/ListFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/ListReversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/StringFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/FindLengthOfEachWord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/largest_and_Secondlargest_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/StringFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/StringFunctions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/List/largest_and_Secondlargest_number.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
