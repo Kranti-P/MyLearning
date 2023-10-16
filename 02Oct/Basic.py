@@ -1,1 +1,1 @@
-print("Hi"*3)
+print("Hi"*3) #Prints Hi 3 times
