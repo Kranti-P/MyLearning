@@ -35,6 +35,13 @@ while (y >= i):
     y -= 1
 print("End!")
 
-
 print("-----------------------------------------")
-y = int(input("Enter the number of lines in 123 pattern: "))
+y = int(input("Enter the number of lines in pyramid pattern: "))
+i=1
+while i <= y: # i=5
+    print(" ")
+    j = 1
+    while j <= y:
+        print(j, end=" ")
+        j += 1
+    i -= 1
