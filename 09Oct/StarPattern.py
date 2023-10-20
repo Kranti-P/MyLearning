@@ -37,11 +37,8 @@ print("End!")
 
 print("-----------------------------------------")
 y = int(input("Enter the number of lines in pyramid pattern: "))
-i=1
+i=0
 while i <= y: # i=5
-    print(" ")
-    j = 1
-    while j <= y:
-        print(j, end=" ")
-        j += 1
-    i -= 1
+    print(" " * (y-i), end=' ')
+    print("*" * (i+1), end='')
+    i += 1
