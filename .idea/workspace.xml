@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25e25318-9d0b-4cb6-a308-42b86f81055f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Files/add_csv_to_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/list_match_statement.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09Oct/FibonacciSeries.py" beforeDir="false" afterPath="$PROJECT_DIR$/09Oct/FibonacciSeries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Files/test.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Atul Patil/PycharmProjects/pythonProject/02Oct",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.sourceCode.Python"
   }
 }]]></component>
   <component name="RecentsManager">
